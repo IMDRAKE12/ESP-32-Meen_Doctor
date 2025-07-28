@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "download_url": "https://raw.githubusercontent.com/IMDRAKE12/ESP-32-Meen_Doctor/main/firmware/latest/firmware.bin",
   "checksum": "placeholder_for_now",
   "release_notes": "Initial firmware version"
